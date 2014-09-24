@@ -1,0 +1,7 @@
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\bin\Debug\1-2-rita-med-asterisker.exe.config
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\bin\Debug\1-2-rita-med-asterisker.exe.config
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\bin\Debug\1-2-rita-med-asterisker.exe
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\bin\Debug\1-2-rita-med-asterisker.pdb
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\obj\Debug\1-2-rita-med-asterisker.csprojResolveAssemblyReference.cache
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\obj\Debug\1-2-rita-med-asterisker.exe
+P:\1dv402\1dv402-js223mx-1-2-rita-med-asterisker\1-2-rita-med-asterisker\obj\Debug\1-2-rita-med-asterisker.pdb
