@@ -10,13 +10,7 @@ namespace _1_2_rita_med_asterisker
     {
         static void Main(string[] args)
         {
-            //Console.Write(" ");
-            //Console.Write("* ");
-            //Console.WriteLine();
 
-            // skapa variabler
-            
-           
             for (int row = 0; row < 25; row++)
             {
 
