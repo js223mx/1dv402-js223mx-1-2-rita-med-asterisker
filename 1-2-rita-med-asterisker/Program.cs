@@ -11,14 +11,13 @@ namespace _1_2_rita_med_asterisker
         static void Main(string[] args)
         {
 
-            for (int row = 0; row < 25; row++)
+            for (int row = 0; row < 25; row++) // for satsen räknar raderna
             {
-
-                if (row % 2 == 1)
+                if (row % 2 == 1) 
                 {
-                  Console.Write(" ");
+                  Console.Write(" "); 
                 }
-                switch (row % 3)
+                switch (row % 3) 
                 {
                     case 0:
                     Console.ForegroundColor = ConsoleColor.Yellow;
