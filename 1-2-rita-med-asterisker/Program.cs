@@ -17,7 +17,7 @@ namespace _1_2_rita_med_asterisker
                 {
                   Console.Write(" "); 
                 }
-                switch (row % 3) 
+                switch (row % 3) //switch satsen sätter färgerna
                 {
                     case 0:
                     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -30,7 +30,7 @@ namespace _1_2_rita_med_asterisker
                     break;
                 }
 
-                for (int col = 0; col < 39; col++)
+                for (int col = 0; col < 39; col++) //räknar columnerna
                 {
                     Console.Write("* ");
                 }
